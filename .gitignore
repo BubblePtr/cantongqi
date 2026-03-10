@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Playwright
+.playwright/
+
+# Skill 执行产物（不提交）
+output/
+cards_output/
+*_articles_*.json
+*AI热点日报.json
+*AI热点日报.md
+*.png
+card_*.html
+
+# 保留配置和文档
+!README.md
+!SKILL.md
+!requirements.txt
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

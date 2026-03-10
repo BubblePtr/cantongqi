@@ -1,0 +1,8 @@
+{
+  "name": "cangtongqi-skills",
+  "version": "1.0.0",
+  "description": "参同契 - RSS 日报生成和卡片设计工具",
+  "author": "void",
+  "repository": "https://github.com/BubblePtr/cangtongqi",
+  "skills": ["rss-daily-report", "rss-daily-to-cards"]
+}
