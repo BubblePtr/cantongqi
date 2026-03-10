@@ -10,6 +10,9 @@ Claude Code Skills 仓库
 ### rss-daily-to-cards
 将 Markdown 格式的 RSS 日报转换为适合小红书/小绿书的 3:4 比例网页卡片。采用杂志风印刷质感设计，支持合欢红+银白配色、噪点滤镜、深色模式穿插等视觉效果。
 
+### bubble-diary-publisher
+验证并发布 Bubble 日记条目到 bubble-build Git 仓库。自动处理 JSON 校验、Git 提交和推送流程。
+
 ## 安装方式
 
 本仓库支持两种安装方式，选择最适合你的：

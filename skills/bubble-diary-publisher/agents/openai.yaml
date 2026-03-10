@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bubble Diary Publisher"
+  short_description: "发布 Bubble 日记到 bubble-build"
+  default_prompt: "Use $bubble-diary-publisher to validate a Bubble diary entry and publish it to the bubble-build repository."
