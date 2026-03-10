@@ -1,6 +1,6 @@
 # 参同契（Cangtongqi）
 
-Claude Code Skills 仓库 - RSS 日报和卡片生成工具集
+Claude Code Skills 仓库
 
 ## 包含的 Skills
 
