@@ -1,5 +1,5 @@
 {
-  "name": "cangtongqi",
+  "name": "cantongqi",
   "description": "参同契 - RSS 日报和卡片生成工具集",
   "version": "1.0.0",
   "plugins": ["cangtongqi-skills"]

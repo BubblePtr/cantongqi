@@ -20,7 +20,7 @@ Claude Code Skills 仓库 - RSS 日报和卡片生成工具集
 
 ```bash
 # 安装
-npx skills add BubblePtr/cangtongqi
+npx skills add BubblePtr/cantongqi
 
 # 更新
 npx skills update
@@ -35,7 +35,7 @@ npx skills list
 
 ```bash
 # 添加市场
-/plugin marketplace add BubblePtr/cangtongqi
+/plugin marketplace add BubblePtr/cantongqi
 
 # 安装插件
 /plugin install cangtongqi-skills@cangtongqi
